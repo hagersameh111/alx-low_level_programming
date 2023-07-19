@@ -12,5 +12,6 @@ int main(void)
 		putchar(nums);
 		nums++;
 	}
+	putchar('\n');
 	return (0);
 }
